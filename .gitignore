@@ -1,0 +1,6 @@
+data/
+*.nc
+*.grib
+*.zip
+__pycache__/
+*.pyc
