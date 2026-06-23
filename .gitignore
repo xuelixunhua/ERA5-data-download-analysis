@@ -4,3 +4,8 @@ data/
 *.zip
 __pycache__/
 *.pyc
+导出数据/
+dash_app/导出数据/
+!dash_app/data/
+dash_app/data/*
+!dash_app/data/README.md
